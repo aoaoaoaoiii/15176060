@@ -8,7 +8,7 @@
 	<meta property="og:image" content="data/hinoshi.png" />
 	<meta property="og:description" content="Cesiumを使った日野市オープンデータ可視化のサンプルです" />
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no">
-	<title>日野市オープンデータ可視化</title>
+	<title>イギリスの城の歴史</title>
 	<link rel="alternate" href="http://hiroshima.archiving.jp/index_en.html" hreflang="en" />
 	<link rel="SHORTCUT ICON" href="http://shinsai.mapping.jp/favicon.ico">
 	<style>
@@ -101,8 +101,8 @@
 			navigationInstructionsInitiallyVisible: false,
 			geocoder: false,
 			//時間を使うときは以下の二行をコメントアウト
-			timeline: false,
-			animation: false,
+			//timeline: false,
+			//animation: false,
 			sceneModePicker: false,
 			baseLayerPicker: false,
 			scene3DOnly: true,
@@ -119,8 +119,8 @@
 		var cesiumTerrainProviderMeshes = new Cesium.CesiumTerrainProvider({
 			url: '//assets.agi.com/stk-terrain/world',
 			//海を表示しないときは以下をfalseに
-			requestWaterMask: true,
-			requestVertexNormals: true
+			requestWaterMask: false,
+			requestVertexNormals: false
 		});
 		viewer.terrainProvider = cesiumTerrainProviderMeshes;
 
