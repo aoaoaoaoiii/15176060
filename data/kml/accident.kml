@@ -15,7 +15,7 @@
 		<IconStyle>
 			<scale>1.3</scale>
 			<Icon>
-				<href>/Applications/MAMP/htdocs/hw/data/kml/battle.png</href>
+				<href>/Applications/MAMP/htdocs/www/data/kml/battle.png</href>
 			</Icon>
 		</IconStyle>
 	</Style>
@@ -23,7 +23,7 @@
 		<IconStyle>
 			<scale>1.3</scale>
 			<Icon>
-				<href>/Applications/MAMP/htdocs/hw/data/kml/battle.png</href>
+				<href>/Applications/MAMP/htdocs/www/data/kml/battle.png</href>
 			</Icon>
 		</IconStyle>
 		<ListStyle>
@@ -33,7 +33,7 @@
 		<IconStyle>
 			<scale>1.3</scale>
 			<Icon>
-				<href>/Applications/MAMP/htdocs/hw/data/kml/battle.png</href>
+				<href>/Applications/MAMP/htdocs/www/data/kml/battle.png</href>
 			</Icon>
 		</IconStyle>
 		<LineStyle>
@@ -44,7 +44,7 @@
 		<IconStyle>
 			<scale>1.3</scale>
 			<Icon>
-				<href>/Applications/MAMP/htdocs/hw/data/kml/battle.png</href>
+				<href>/Applications/MAMP/htdocs/www/data/kml/battle.png</href>
 			</Icon>
 		</IconStyle>
 	</Style>
@@ -62,7 +62,7 @@
 		<IconStyle>
 			<scale>1.1</scale>
 			<Icon>
-				<href>/Applications/MAMP/htdocs/hw/data/kml/battle.png</href>
+				<href>/Applications/MAMP/htdocs/www/data/kml/battle.png</href>
 			</Icon>
 		</IconStyle>
 		<LineStyle>
@@ -73,7 +73,7 @@
 		<IconStyle>
 			<scale>1.1</scale>
 			<Icon>
-				<href>/Applications/MAMP/htdocs/hw/data/kml/battle.png</href>
+				<href>/Applications/MAMP/htdocs/www/data/kml/battle.png</href>
 			</Icon>
 		</IconStyle>
 	</Style>
@@ -120,7 +120,7 @@
 		<IconStyle>
 			<scale>1.1</scale>
 			<Icon>
-				<href>/Applications/MAMP/htdocs/hw/data/kml/battle.png</href>
+				<href>/Applications/MAMP/htdocs/www/data/kml/battle.png</href>
 			</Icon>
 		</IconStyle>
 	</Style>
@@ -128,7 +128,7 @@
 		<IconStyle>
 			<scale>1.1</scale>
 			<Icon>
-				<href>/Applications/MAMP/htdocs/hw/data/kml/battle.png</href>
+				<href>/Applications/MAMP/htdocs/www/data/kml/battle.png</href>
 			</Icon>
 		</IconStyle>
 		<ListStyle>
@@ -200,6 +200,10 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+		<TimeSpan id="ID">
+		 <begin>1642-01-01T13:50:40+09:00</begin>     <!-- kml:dateTime -->
+		 <end>1645-01-01T13:50:40+09:00</end>         <!-- kml:dateTime -->
+	 </TimeSpan>
 
 			<name>清教徒革命1</name>
 			<visibility>0</visibility>
@@ -214,10 +218,7 @@
 				<roll>72.92263794523052</roll>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</Camera>
-			<TimeSpan id="ID">
-	     <begin>1642-01-01T13:50:40+09:00</begin>     <!-- kml:dateTime -->
-	     <end>1645-01-01T13:50:40+09:00</end>         <!-- kml:dateTime -->
-	   </TimeSpan>
+
 			<styleUrl>#msn_battle1</styleUrl>
 			<Point>
 				<extrude>1</extrude>
@@ -227,6 +228,10 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+		<TimeSpan id="ID">
+		 <begin>1645-01-01T13:50:40+09:00</begin>     <!-- kml:dateTime -->
+		 <end>1647-01-01T13:50:40+09:00</end>         <!-- kml:dateTime -->
+	 </TimeSpan>
 
 			<name>清教徒革命2</name>
 			<visibility>0</visibility>
@@ -241,10 +246,7 @@
 				<roll>72.92263794523052</roll>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</Camera>
-			<TimeSpan id="ID">
-	     <begin>1645-01-01T13:50:40+09:00</begin>     <!-- kml:dateTime -->
-	     <end>1647-01-01T13:50:40+09:00</end>         <!-- kml:dateTime -->
-	   </TimeSpan>
+
 			<styleUrl>#msn_battle1</styleUrl>
 			<Point>
 				<extrude>1</extrude>
@@ -254,6 +256,10 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+		<TimeSpan id="ID">
+		 <begin>1645-01-01T13:50:40+09:00</begin>     <!-- kml:dateTime -->
+		 <end>1647-01-01T13:50:40+09:00</end>         <!-- kml:dateTime -->
+	 </TimeSpan>
 
 			<name>ジャコバイトの反乱</name>
 			<visibility>0</visibility>
@@ -268,10 +274,7 @@
 				<range>139385.0210417032</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<TimeSpan id="ID">
-			 <begin>1645-01-01T13:50:40+09:00</begin>     <!-- kml:dateTime -->
-			 <end>1647-01-01T13:50:40+09:00</end>         <!-- kml:dateTime -->
-		 </TimeSpan>
+
 			<styleUrl>#msn_battle2</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
@@ -279,6 +282,10 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+		<TimeSpan id="ID">
+		 <begin>1760-01-01T13:50:40+09:00</begin>     <!-- kml:dateTime -->
+		 <end>1760-06-01T13:50:40+09:00</end>         <!-- kml:dateTime -->
+	 </TimeSpan>
 
 			<name>落雷</name>
 			<visibility>0</visibility>
@@ -293,10 +300,7 @@
 				<range>94200.85960649801</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<TimeSpan id="ID">
-	     <begin>1760-01-01T13:50:40+09:00</begin>     <!-- kml:dateTime -->
-	     <end>1760-06-01T13:50:40+09:00</end>         <!-- kml:dateTime -->
-	   </TimeSpan>
+
 			<styleUrl>#msn_rainy</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
@@ -304,6 +308,10 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+		<TimeSpan id="ID">
+		 <begin>1649-01-01T13:50:40+09:00</begin>     <!-- kml:dateTime -->
+		 <end>1651-01-01T13:50:40+09:00</end>         <!-- kml:dateTime -->
+	 </TimeSpan>
 
 			<name>イングランド内戦</name>
 			<visibility>0</visibility>
@@ -329,6 +337,10 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+		<TimeSpan id="ID">
+		 <begin>1339-01-01T13:50:40+09:00</begin>     <!-- kml:dateTime -->
+		 <end>1453-01-01T13:50:40+09:00</end>         <!-- kml:dateTime -->
+	 </TimeSpan>
 
 			<name>百年戦争</name>
 			<visibility>0</visibility>
