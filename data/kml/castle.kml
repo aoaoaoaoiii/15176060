@@ -268,9 +268,7 @@
 		<name>castle</name>
 		<visibility>0</visibility>
 		<Placemark>
-		<TimeSpan id="ID">
-     <begin>13920101</begin>     <!-- kml:dateTime -->
-     <end>16480101</end>         <!-- kml:dateTime -->
+
    </TimeSpan>
 			<name>ダノター城</name>
 			<visibility>0</visibility>
@@ -290,8 +288,8 @@
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
 			<TimeSpan id="ID">
-				<begin>16450101</begin>
-				<end>16500101</end>
+				<begin>13920101</begin>
+				<end>16490101</end>
 			</TimeSpan>
 			<styleUrl>#m_ylw-pushpin</styleUrl>
 			<Point>
@@ -300,10 +298,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-		<TimeSpan id="ID">
-     <begin>14500101</begin>     <!-- kml:dateTime -->
-     <end>17600101</end>         <!-- kml:dateTime -->
-   </TimeSpan>
+
 			<name>キルカーン城</name>
 			<visibility>0</visibility>
 			<open>1</open>
@@ -321,9 +316,10 @@
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
 			<TimeSpan id="ID">
-				<begin>16450101</begin>
-				<end>16490101</end>
-			</TimeSpan>
+	     <begin>14500101</begin>     <!-- kml:dateTime -->
+	     <end>17600101</end>         <!-- kml:dateTime -->
+	   </TimeSpan>
+
 			<styleUrl>#msn_kiru</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
@@ -331,10 +327,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-		<TimeSpan id="ID">
-     <begin>12200101</begin>     <!-- kml:dateTime -->
-     <end>17450101</end>         <!-- kml:dateTime -->
-   </TimeSpan>
+
 			<name>アイリーン・ドナン城</name>
 			<visibility>0</visibility>
 			<open>1</open>
@@ -351,9 +344,9 @@
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</Camera>
 			<TimeSpan id="ID">
-				<begin>16450101</begin>
-				<end>16490101</end>
-			</TimeSpan>
+	     <begin>12200101</begin>     <!-- kml:dateTime -->
+	     <end>17450101</end>         <!-- kml:dateTime -->
+	   </TimeSpan>
 			<styleUrl>#msn_airi-n</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
@@ -361,9 +354,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-		<when>
-		11000101
-    </when>
+
 			<name>エディンバラ城</name>
 			<visibility>0</visibility>
 			<open>1</open>
@@ -380,8 +371,8 @@
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</Camera>
 			<TimeSpan id="ID">
-				<begin>16450101</begin>
-				<end>16490101</end>
+				<begin>11000101</begin>
+				<end>18000101</end>
 			</TimeSpan>
 			<styleUrl>#msn_edinbaraa2</styleUrl>
 			<Point>
@@ -392,9 +383,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-		<when>
-		12830101
-    </when>
+
 
 			<name>カーナーヴォン城</name>
 			<visibility>0</visibility>
@@ -412,8 +401,8 @@
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
 			<TimeSpan id="ID">
-				<begin>16450101</begin>
-				<end>16490101</end>
+				<begin>	12830101</begin>
+				<end>18000101</end>
 			</TimeSpan>
 			<styleUrl>#msn_ka-na2</styleUrl>
 			<Point>
@@ -422,9 +411,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-		<when>
-		12950101
-    </when>
+
 			<name>ビューマリス城</name>
 			<visibility>0</visibility>
 			<open>1</open>
@@ -442,8 +429,8 @@
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
 			<TimeSpan id="ID">
-				<begin>16450101</begin>
-				<end>16490101</end>
+				<begin>12950101</begin>
+				<end>18000101</end>
 			</TimeSpan>
 			<styleUrl>#msn_byu-</styleUrl>
 			<Point>
@@ -452,9 +439,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-		<when>
-		12960101
-    </when>
+
 			<name>コンウィ城</name>
 			<visibility>0</visibility>
 			<open>1</open>
@@ -472,8 +457,8 @@
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
 			<TimeSpan id="ID">
-				<begin>16450101</begin>
-				<end>16490101</end>
+				<begin>12960101</begin>
+				<end>18000101</end>
 			</TimeSpan>
 			<styleUrl>#msn_konwi</styleUrl>
 			<Point>
@@ -482,9 +467,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-		<when>
-		12850101
-    </when>
+
 			<name>ハーレフ城</name>
 			<visibility>0</visibility>
 			<open>1</open>
@@ -501,8 +484,8 @@
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
 			<TimeSpan id="ID">
-				<begin>16450101</begin>
-				<end>16490101</end>
+				<begin>12850101</begin>
+				<end>18000101</end>
 			</TimeSpan>
 			<styleUrl>#msn_ha-rehu</styleUrl>
 			<Point>
@@ -511,9 +494,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-		<when>
-		11900101
-    </when>
+
 			<name>ドーヴァー城</name>
 			<visibility>0</visibility>
 			<open>1</open>
@@ -530,8 +511,8 @@
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</Camera>
 			<TimeSpan id="ID">
-				<begin>16450101</begin>
-				<end>16490101</end>
+				<begin>11900101</begin>
+				<end>18000101</end>
 			</TimeSpan>
 			<styleUrl>#msn_dova</styleUrl>
 			<Point>
@@ -540,10 +521,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-		<TimeSpan id="ID">
-     <begin>13850101</begin>     <!-- kml:dateTime -->
-     <end>16490501</end>         <!-- kml:dateTime -->
-   </TimeSpan>
+
 			<name>ボディアム城</name>
 			<visibility>0</visibility>
 			<open>1</open>
@@ -560,9 +538,9 @@
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
 			<TimeSpan id="ID">
-				<begin>16450101</begin>
-				<end>16490101</end>
-			</TimeSpan>
+	     <begin>13850101</begin>     <!-- kml:dateTime -->
+	     <end>16490501</end>         <!-- kml:dateTime -->
+	   </TimeSpan>
 			<styleUrl>#msn_bodi</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
