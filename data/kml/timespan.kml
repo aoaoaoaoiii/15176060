@@ -287,8 +287,8 @@
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</LookAt>
 				<TimeSpan id="ID">
-					<begin>16450101</begin>
-					<end>16500101</end>
+					<begin>13920101T135040+0900</begin>
+					<end>16490101T135040+0900</end>
 				</TimeSpan>
 				<styleUrl>#m_ylw-pushpin</styleUrl>
 				<Point>
@@ -313,8 +313,8 @@
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</LookAt>
 				<TimeSpan id="ID">
-					<begin>16450101</begin>
-					<end>16490101</end>
+				 <begin>14500101T135040+0900</begin>     <!-- kml:dateTime -->
+				 <end>17600101T135040+0900</end>         <!-- kml:dateTime -->
 				</TimeSpan>
 				<styleUrl>#msn_kiru</styleUrl>
 				<Point>
@@ -338,9 +338,9 @@
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</Camera>
 				<TimeSpan id="ID">
-					<begin>16450101</begin>
-					<end>16490101</end>
-				</TimeSpan>
+				 <begin>12200101T135040+0900</begin>     <!-- kml:dateTime -->
+				 <end>17450101T135040+0900</end>         <!-- kml:dateTime -->
+			 </TimeSpan>
 				<styleUrl>#msn_airi-n</styleUrl>
 				<Point>
 					<gx:drawOrder>1</gx:drawOrder>
@@ -363,8 +363,8 @@
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</Camera>
 				<TimeSpan id="ID">
-					<begin>16450101</begin>
-					<end>16490101</end>
+					<begin>11000101T135040+0900</begin>
+					<end>18000101T135040+0900</end>
 				</TimeSpan>
 				<styleUrl>#msn_edinbaraa2</styleUrl>
 				<Point>
@@ -393,8 +393,8 @@
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</LookAt>
 				<TimeSpan id="ID">
-					<begin>16450101</begin>
-					<end>16490101</end>
+					<begin>	12830101T135040+0900</begin>
+					<end>18000101T135040+0900</end>
 				</TimeSpan>
 				<styleUrl>#msn_ka-na2</styleUrl>
 				<Point>
@@ -422,8 +422,8 @@
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</LookAt>
 				<TimeSpan id="ID">
-					<begin>16450101</begin>
-					<end>16490101</end>
+					<begin>12950101T135040+0900</begin>
+					<end>18000101T135040+0900</end>
 				</TimeSpan>
 				<styleUrl>#msn_byu-</styleUrl>
 				<Point>
@@ -451,8 +451,8 @@
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</LookAt>
 				<TimeSpan id="ID">
-					<begin>16450101</begin>
-					<end>16490101</end>
+					<begin>12960101T135040+0900</begin>
+					<end>18000101T135040+0900</end>
 				</TimeSpan>
 				<styleUrl>#msn_konwi</styleUrl>
 				<Point>
@@ -479,8 +479,8 @@
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</LookAt>
 				<TimeSpan id="ID">
-					<begin>16450101</begin>
-					<end>16490101</end>
+					<begin>12850101T135040+0900</begin>
+					<end>18000101T135040+0900</end>
 				</TimeSpan>
 				<styleUrl>#msn_ha-rehu</styleUrl>
 				<Point>
@@ -507,8 +507,8 @@
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</Camera>
 				<TimeSpan id="ID">
-					<begin>16450101</begin>
-					<end>16490101</end>
+					<begin>11900101T135040+0900</begin>
+					<end>18000101T135040+0900</end>
 				</TimeSpan>
 				<styleUrl>#msn_dova</styleUrl>
 				<Point>
@@ -535,9 +535,9 @@
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</LookAt>
 				<TimeSpan id="ID">
-					<begin>16450101</begin>
-					<end>16490101</end>
-				</TimeSpan>
+		     <begin>13850101T135040+0900</begin>     <!-- kml:dateTime -->
+		     <end>16490501T135040+0900</end>         <!-- kml:dateTime -->
+		   </TimeSpan>
 				<styleUrl>#msn_bodi</styleUrl>
 				<Point>
 					<gx:drawOrder>1</gx:drawOrder>
@@ -702,9 +702,9 @@
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</Camera>
 				<TimeSpan id="ID">
-					<begin>12770101</begin>
-					<end>13070101</end>
-				</TimeSpan>
+		     <begin>12770101T135040+0900</begin>     <!-- kml:dateTime -->
+		     <end>13070101T135040+0900</end>         <!-- kml:dateTime -->
+		   </TimeSpan>
 				<styleUrl>#msn_battle0</styleUrl>
 				<Point>
 					<extrude>1</extrude>
@@ -727,9 +727,9 @@
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</Camera>
 				<TimeSpan id="ID">
-					<begin>16470101</begin>
-					<end>16490101</end>
-				</TimeSpan>
+		     <begin>16470101T135040+0900</begin>     <!-- kml:dateTime -->
+		     <end>16490101T135040+0900</end>         <!-- kml:dateTime -->
+		   </TimeSpan>
 				<styleUrl>#msn_battle1</styleUrl>
 				<Point>
 					<extrude>1</extrude>
@@ -752,9 +752,9 @@
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</Camera>
 				<TimeSpan id="ID">
-					<begin>16450101</begin>
-					<end>16490101</end>
-				</TimeSpan>
+		     <begin>16420101T135040+0900T135040+0900</begin>     <!-- kml:dateTime -->
+		     <end>16450101T135040+0900T135040+0900</end>         <!-- kml:dateTime -->
+		   </TimeSpan>
 				<styleUrl>#msn_battle1</styleUrl>
 				<Point>
 					<extrude>1</extrude>
@@ -777,9 +777,9 @@
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</Camera>
 				<TimeSpan id="ID">
-					<begin>16450101</begin>
-					<end>16490101</end>
-				</TimeSpan>
+		     <begin>16450101T135040+0900</begin>     <!-- kml:dateTime -->
+		     <end>16470101T135040+0900</end>         <!-- kml:dateTime -->
+		   </TimeSpan>
 				<styleUrl>#msn_battle1</styleUrl>
 				<Point>
 					<extrude>1</extrude>
@@ -802,9 +802,9 @@
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</LookAt>
 				<TimeSpan id="ID">
-					<begin>17450101</begin>
-					<end>17460401</end>
-				</TimeSpan>
+		     <begin>16450101T135040+0900</begin>     <!-- kml:dateTime -->
+		     <end>16470101T135040+0900</end>         <!-- kml:dateTime -->
+		   </TimeSpan>
 				<styleUrl>#msn_battle2</styleUrl>
 				<Point>
 					<gx:drawOrder>1</gx:drawOrder>
@@ -825,9 +825,9 @@
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</LookAt>
 				<TimeSpan id="ID">
-					<begin>17591201</begin>
-					<end>17600601</end>
-				</TimeSpan>
+		     <begin>17600101T135040+0900</begin>     <!-- kml:dateTime -->
+		     <end>17600601T135040+0900</end>         <!-- kml:dateTime -->
+		   </TimeSpan>
 				<styleUrl>#msn_rainy</styleUrl>
 				<Point>
 					<gx:drawOrder>1</gx:drawOrder>
@@ -848,9 +848,9 @@
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</LookAt>
 				<TimeSpan id="ID">
-					<begin>16490101</begin>
-					<end>16510101</end>
-				</TimeSpan>
+		     <begin>16490101T135040+0900</begin>     <!-- kml:dateTime -->
+		     <end>16510101T135040+0900</end>         <!-- kml:dateTime -->
+		   </TimeSpan>
 				<styleUrl>#msn_battle</styleUrl>
 				<Point>
 					<gx:drawOrder>1</gx:drawOrder>
@@ -872,9 +872,9 @@
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</LookAt>
 				<TimeSpan id="ID">
-					<begin>13390101</begin>
-					<end>14530101</end>
-				</TimeSpan>
+				 <begin>13390101T135040+0900</begin>     <!-- kml:dateTime -->
+				 <end>14530101T135040+0900</end>         <!-- kml:dateTime -->
+			 </TimeSpan>
 				<styleUrl>#msn_battle1</styleUrl>
 				<Point>
 					<gx:drawOrder>1</gx:drawOrder>

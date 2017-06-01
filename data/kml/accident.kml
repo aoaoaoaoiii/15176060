@@ -149,8 +149,8 @@
 		<visibility>0</visibility>
 		<Placemark>
 		<TimeSpan id="ID">
-     <begin>12770101</begin>     <!-- kml:dateTime -->
-     <end>13070101</end>         <!-- kml:dateTime -->
+     <begin>12770101T135040+0900</begin>     <!-- kml:dateTime -->
+     <end>13070101T135040+0900</end>         <!-- kml:dateTime -->
    </TimeSpan>
 			<name>エドワード１世ウェールズ侵攻</name>
 			<visibility>0</visibility>
@@ -175,8 +175,8 @@
 		</Placemark>
 		<Placemark>
 		<TimeSpan id="ID">
-     <begin>16470101</begin>     <!-- kml:dateTime -->
-     <end>16490101</end>         <!-- kml:dateTime -->
+     <begin>16470101T135040+0900</begin>     <!-- kml:dateTime -->
+     <end>16490101T135040+0900</end>         <!-- kml:dateTime -->
    </TimeSpan>
 			<name>清教徒革命3</name>
 			<visibility>0</visibility>
@@ -199,10 +199,8 @@
 				<coordinates>-2.692986568945188,56.9009679799576,3125</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark><TimeSpan id="ID">
-     <begin>16420101</begin>     <!-- kml:dateTime -->
-     <end>16450101</end>         <!-- kml:dateTime -->
-   </TimeSpan>
+		<Placemark>
+
 			<name>清教徒革命1</name>
 			<visibility>0</visibility>
 			<open>1</open>
@@ -217,9 +215,9 @@
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</Camera>
 			<TimeSpan id="ID">
-				<begin>16450101</begin>
-				<end>16490101</end>
-			</TimeSpan>
+	     <begin>16420101T135040+0900T135040+0900</begin>     <!-- kml:dateTime -->
+	     <end>16450101T135040+0900T135040+0900</end>         <!-- kml:dateTime -->
+	   </TimeSpan>
 			<styleUrl>#msn_battle1</styleUrl>
 			<Point>
 				<extrude>1</extrude>
@@ -229,10 +227,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-		<TimeSpan id="ID">
-     <begin>16450101</begin>     <!-- kml:dateTime -->
-     <end>16470101</end>         <!-- kml:dateTime -->
-   </TimeSpan>
+
 			<name>清教徒革命2</name>
 			<visibility>0</visibility>
 			<open>1</open>
@@ -247,9 +242,9 @@
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</Camera>
 			<TimeSpan id="ID">
-				<begin>16450101</begin>
-				<end>16490101</end>
-			</TimeSpan>
+	     <begin>16450101T135040+0900</begin>     <!-- kml:dateTime -->
+	     <end>16470101T135040+0900</end>         <!-- kml:dateTime -->
+	   </TimeSpan>
 			<styleUrl>#msn_battle1</styleUrl>
 			<Point>
 				<extrude>1</extrude>
@@ -259,10 +254,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-		<TimeSpan id="ID">
-     <begin>17450101</begin>     <!-- kml:dateTime -->
-     <end>17460401</end>         <!-- kml:dateTime -->
-   </TimeSpan>
+
 			<name>ジャコバイトの反乱</name>
 			<visibility>0</visibility>
 			<open>1</open>
@@ -276,6 +268,10 @@
 				<range>139385.0210417032</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
+			<TimeSpan id="ID">
+			 <begin>16450101T135040+0900</begin>     <!-- kml:dateTime -->
+			 <end>16470101T135040+0900</end>         <!-- kml:dateTime -->
+		 </TimeSpan>
 			<styleUrl>#msn_battle2</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
@@ -283,10 +279,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-		<TimeSpan id="ID">
-     <begin>17600101</begin>     <!-- kml:dateTime -->
-     <end>17600601</end>         <!-- kml:dateTime -->
-   </TimeSpan>
+
 			<name>落雷</name>
 			<visibility>0</visibility>
 			<open>1</open>
@@ -301,9 +294,9 @@
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
 			<TimeSpan id="ID">
-				<begin>17591201</begin>
-				<end>17600601</end>
-			</TimeSpan>
+	     <begin>17600101T135040+0900</begin>     <!-- kml:dateTime -->
+	     <end>17600601T135040+0900</end>         <!-- kml:dateTime -->
+	   </TimeSpan>
 			<styleUrl>#msn_rainy</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
@@ -311,10 +304,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-		<TimeSpan id="ID">
-     <begin>16490101</begin>     <!-- kml:dateTime -->
-     <end>16510101</end>         <!-- kml:dateTime -->
-   </TimeSpan>
+
 			<name>イングランド内戦</name>
 			<visibility>0</visibility>
 			<open>1</open>
@@ -329,9 +319,9 @@
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
 			<TimeSpan id="ID">
-				<begin>16490101</begin>
-				<end>16510101</end>
-			</TimeSpan>
+	     <begin>16490101T135040+0900</begin>     <!-- kml:dateTime -->
+	     <end>16510101T135040+0900</end>         <!-- kml:dateTime -->
+	   </TimeSpan>
 			<styleUrl>#msn_battle</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
@@ -339,10 +329,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-		<TimeSpan id="ID">
-     <begin>13390101</begin>     <!-- kml:dateTime -->
-     <end>14530101</end>         <!-- kml:dateTime -->
-   </TimeSpan>
+
 			<name>百年戦争</name>
 			<visibility>0</visibility>
 			<description>フランス王国の王位継承をめぐるヴァロワ朝フランス王国と、プランタジネット朝およびランカスター朝イングランド王国の戦い。1337年11月1日のエドワード3世によるフランスへの挑戦状送付から1453年10月19日のボルドー陥落までの116年間の対立状態を指す。</description>
@@ -357,6 +344,10 @@
 				<range>1267235.096756014</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
+			<TimeSpan id="ID">
+	     <begin>13390101T135040+0900</begin>     <!-- kml:dateTime -->
+	     <end>14530101T135040+0900</end>         <!-- kml:dateTime -->
+	   </TimeSpan>
 			<styleUrl>#msn_battle1</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
