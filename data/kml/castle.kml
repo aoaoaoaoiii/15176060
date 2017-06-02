@@ -269,7 +269,7 @@
 		<Placemark>
 			<name>ダノター城</name>
 			<open>1</open>
-			<description><![CDATA[<img style="max-width:500px;" src="image/dano2.png">
+			<description><![CDATA[<img style="max-width:500px;" src="data/image/dano2.png">
 
 
 
@@ -296,7 +296,7 @@
 		<Placemark>
 			<name>キルカーン城</name>
 			<open>1</open>
-			<description><![CDATA[<img style="max-width:500px;" src="image/kiru2.png">
+			<description><![CDATA[<img style="max-width:500px;" src="data/image/kiru2.png">
 
 
 1450年建設。城主が変わるたびに改築されてきた城。１８世紀に落雷被害にあい廃城に。]]></description>
@@ -311,7 +311,7 @@
 			</LookAt>
 			<TimeSpan id="ID">
 				<begin>1450-01-01T13:50:40+09:00</begin>
-				<end>1760-01-01T13:50:40+09:00</end>
+				<end>1760-10-01T13:50:40+09:00</end>
 			</TimeSpan>
 			<styleUrl>#msn_kiru</styleUrl>
 			<Point>
@@ -322,7 +322,7 @@
 		<Placemark>
 			<name>アイリーン・ドナン城</name>
 			<open>1</open>
-			<description><![CDATA[<img style="max-width:500px;" src="image/airi2.png">
+			<description><![CDATA[<img style="max-width:500px;" src="data/image/airi2.png">
 
 スコットランドで最も美しいと讃えられる城。１３世紀にこの地で勢力を誇っていたノルウェー王国に勝利した際にスコットランド国王が臣下への恩賞として与えた。1745年のジャコバイトの反乱により破壊される。]]></description>
 			<Camera>
@@ -347,7 +347,7 @@
 		<Placemark>
 			<name>エディンバラ城</name>
 			<open>1</open>
-			<description><![CDATA[<img style="max-width:500px;" src="image/edinbaraa2.png">
+			<description><![CDATA[<img style="max-width:500px;" src="data/image/edinbaraa2.png">
 
 7世紀にスコットランド王の居城として建築され、幾度の戦争をくぐりぬけた巨城。16世紀にはほぼ完成に近づく。ハリーポッターのホグワーツ城のモデルになったとも言われている]]></description>
 			<Camera>
@@ -374,7 +374,7 @@
 		<Placemark>
 			<name>カーナーヴォン城</name>
 			<open>1</open>
-			<description><![CDATA[<img style="max-width:500px;" src="image/ka-na.png">
+			<description><![CDATA[<img style="max-width:500px;" src="data/image/ka-na.png">
 
 1283年にウェールズを侵略したエドワード1世がが統治の本拠地として築いた城。]]></description>
 			<LookAt>
@@ -399,7 +399,7 @@
 		<Placemark>
 			<name>ビューマリス城</name>
 			<open>1</open>
-			<description><![CDATA[<img style="max-width:500px;" src="image/byu-2.png">
+			<description><![CDATA[<img style="max-width:500px;" src="data/image/byu-2.png">
 
 1295年
 エドワード1世がグヴィネズ地方遠征のために建築。資金不足により未完成のままとなっているが、六角形と四角形の美しい壁は強い防御力を誇った。]]></description>
@@ -425,7 +425,7 @@
 		<Placemark>
 			<name>コンウィ城</name>
 			<open>1</open>
-			<description><![CDATA[<img style="max-width:500px;" src="image/konwi2.png">
+			<description><![CDATA[<img style="max-width:500px;" src="data/image/konwi2.png">
 
 1283年にエドワード1世のウェールズ侵攻のために築いた城。
 民衆の反乱時に海から補給が行えるようにするため海沿いに建てられた。]]></description>
@@ -451,7 +451,7 @@
 		<Placemark>
 			<name>ハーレフ城</name>
 			<open>1</open>
-			<description><![CDATA[<img style="max-width:500px;" src="image/ha-rehu2.png">
+			<description><![CDATA[<img style="max-width:500px;" src="data/image/ha-rehu2.png">
 
 エドワード1世の統治のために建てられた城。]]></description>
 			<LookAt>
@@ -476,7 +476,7 @@
 		<Placemark>
 			<name>ドーヴァー城</name>
 			<open>1</open>
-			<description><![CDATA[<img style="max-width:500px;" src="image/dova2.png">
+			<description><![CDATA[<img style="max-width:500px;" src="data/image/dova2.png">
 ウィリアム征服王が建て、ヘンリー２世が増築した不落の城壁を持つ城。
 百年戦争やナポレオンの侵略からイギリスを守った完全防備の城。]]></description>
 			<Camera>
@@ -501,7 +501,7 @@
 		<Placemark>
 			<name>ボディアム城</name>
 			<open>1</open>
-			<description><![CDATA[<img style="max-width:500px;" src="image/bodi2.png">
+			<description><![CDATA[<img style="max-width:500px;" src="data/image/bodi2.png">
 
 1385年建設。１７世紀の市民戦争に巻き込まれ破壊され、現在は廃城となる。]]></description>
 			<LookAt>

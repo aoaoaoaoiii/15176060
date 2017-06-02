@@ -314,7 +314,7 @@
 				</LookAt>
 				<TimeSpan id="ID">
 					<begin>1450-01-01T13:50:40+09:00</begin>
-					<end>1760-01-01T13:50:40+09:00</end>
+					<end>1760-10-01T13:50:40+09:00</end>
 				</TimeSpan>
 				<styleUrl>#msn_kiru</styleUrl>
 				<Point>
@@ -826,7 +826,7 @@
 				</LookAt>
 				<TimeSpan id="ID">
 					<begin>1760-01-01T13:50:40+09:00</begin>
-					<end>1760-06-01T13:50:40+09:00</end>
+					<end>1763-06-01T13:50:40+09:00</end>
 				</TimeSpan>
 				<styleUrl>#msn_rainy</styleUrl>
 				<Point>
