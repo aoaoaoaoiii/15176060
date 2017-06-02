@@ -2,6 +2,24 @@
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
 <Document>
 	<name>castle.kml</name>
+	<Style id="sn_kiru">
+		<IconStyle>
+			<scale>2.0</scale>
+			<Icon>
+				<href>../image/kiru.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_kiru">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_kiru</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_kiru</styleUrl>
+		</Pair>
+	</StyleMap>
 	<StyleMap id="msn_konwi">
 		<Pair>
 			<key>normal</key>
@@ -12,14 +30,6 @@
 			<styleUrl>#sh_konwi</styleUrl>
 		</Pair>
 	</StyleMap>
-	<Style id="sn_airi-n">
-		<IconStyle>
-			<scale>1.1</scale>
-			<Icon>
-				<href>/Applications/MAMP/htdocs/www/data/kml/airi-n.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
 	<StyleMap id="msn_ka-na2">
 		<Pair>
 			<key>normal</key>
@@ -30,20 +40,209 @@
 			<styleUrl>#sh_ka-na2</styleUrl>
 		</Pair>
 	</StyleMap>
+	<Style id="sn_airi-n">
+		<IconStyle>
+			<scale>2.0</scale>
+			<Icon>
+				<href>../image/airi-n.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_edinbaraa2">
+		<IconStyle>
+			<scale>2.0</scale>
+			<Icon>
+				<href>../image/edinbaraa2.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_bodi">
+		<IconStyle>
+			<scale>2.0</scale>
+			<Icon>
+				<href>../image/bodi.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_edinbaraa2">
+		<IconStyle>
+			<scale>2.0</scale>
+			<Icon>
+				<href>../image/edinbaraa2.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_airi-n">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_airi-n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_airi-n</styleUrl>
+		</Pair>
+	</StyleMap>
 	<Style id="s_ylw-pushpin_hl">
 		<IconStyle>
-			<scale>1.3</scale>
+			<scale>2.0</scale>
 			<Icon>
-				<href>/Applications/MAMP/htdocs/www/data/kml/dano.png</href>
+				<href>../image/dano.png</href>
 			</Icon>
 			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
 		</IconStyle>
 	</Style>
 	<Style id="sh_airi-n">
 		<IconStyle>
+			<scale>2.0</scale>
+			<Icon>
+				<href>../image/airi-n.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>2.0</scale>
+			<Icon>
+				<href>../image/dano.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_bodi">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_bodi</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_bodi</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_kiru">
+		<IconStyle>
+			<scale>2.0</scale>
+			<Icon>
+				<href>../image/kiru.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ha-rehu">
+		<IconStyle>
+			<scale>2.0</scale>
+			<Icon>
+				<href>../image/ha-rehu.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_byu-">
+		<IconStyle>
+			<scale>2.0</scale>
+			<Icon>
+				<href>../image/byu-.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ha-rehu">
+		<IconStyle>
+			<scale>2.0</scale>
+			<Icon>
+				<href>../image/ha-rehu.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ka-na2">
+		<IconStyle>
+			<scale>2.0</scale>
+			<Icon>
+				<href>../image/ka-na2.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_konwi">
+		<IconStyle>
 			<scale>1.3</scale>
 			<Icon>
-				<href>/Applications/MAMP/htdocs/www/data/kml/airi-n.png</href>
+				<href>../image/konwi.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_byu-">
+		<IconStyle>
+			<scale>2.0</scale>
+			<Icon>
+				<href>../image/byu-.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_konwi">
+		<IconStyle>
+			<scale>2.0</scale>
+			<Icon>
+				<href>../image/konwi.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ha-rehu">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ha-rehu</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ha-rehu</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_byu-">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_byu-</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_byu-</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_edinbaraa2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_edinbaraa2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_edinbaraa2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_bodi">
+		<IconStyle>
+			<scale>2.0</scale>
+			<Icon>
+				<href>../image/bodi.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_dova">
+		<IconStyle>
+			<scale>2.0</scale>
+			<Icon>
+				<href>../image/dova.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ka-na2">
+		<IconStyle>
+			<scale>2.0</scale>
+			<Icon>
+				<href>../image/ka-na2.png</href>
 			</Icon>
 		</IconStyle>
 	</Style>
@@ -59,225 +258,18 @@
 	</StyleMap>
 	<Style id="sn_dova">
 		<IconStyle>
-			<scale>1.1</scale>
+			<scale>2.0</scale>
 			<Icon>
-				<href>/Applications/MAMP/htdocs/www/data/kml/dova.png</href>
+				<href>../image/dova.png</href>
 			</Icon>
 		</IconStyle>
 	</Style>
-	<Style id="sn_byu-">
-		<IconStyle>
-			<scale>1.1</scale>
-			<Icon>
-				<href>/Applications/MAMP/htdocs/www/data/kml/byu-.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<Style id="sh_konwi">
-		<IconStyle>
-			<scale>1.3</scale>
-			<Icon>
-				<href>/Applications/MAMP/htdocs/www/data/kml/konwi.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<Style id="sh_ha-rehu">
-		<IconStyle>
-			<scale>1.3</scale>
-			<Icon>
-				<href>/Applications/MAMP/htdocs/www/data/kml/ha-rehu.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<Style id="sh_kiru">
-		<IconStyle>
-			<scale>1.3</scale>
-			<Icon>
-				<href>/Applications/MAMP/htdocs/www/data/kml/kiru.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<Style id="sn_kiru">
-		<IconStyle>
-			<scale>1.1</scale>
-			<Icon>
-				<href>/Applications/MAMP/htdocs/www/data/kml/kiru.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<Style id="sh_dova">
-		<IconStyle>
-			<scale>1.3</scale>
-			<Icon>
-				<href>/Applications/MAMP/htdocs/www/data/kml/dova.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<Style id="sn_bodi">
-		<IconStyle>
-			<scale>1.1</scale>
-			<Icon>
-				<href>/Applications/MAMP/htdocs/www/data/kml/bodi.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<Style id="sh_byu-">
-		<IconStyle>
-			<scale>1.3</scale>
-			<Icon>
-				<href>/Applications/MAMP/htdocs/www/data/kml/byu-.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<StyleMap id="msn_ha-rehu">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_ha-rehu</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_ha-rehu</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sh_ka-na2">
-		<IconStyle>
-			<scale>1.3</scale>
-			<Icon>
-				<href>/Applications/MAMP/htdocs/www/data/kml/ka-na2.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<StyleMap id="m_ylw-pushpin">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#s_ylw-pushpin</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="msn_airi-n">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_airi-n</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_airi-n</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="msn_kiru">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_kiru</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_kiru</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sn_edinbaraa2">
-		<IconStyle>
-			<scale>1.1</scale>
-			<Icon>
-				<href>/Applications/MAMP/htdocs/www/data/kml/edinbaraa2.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<StyleMap id="msn_byu-">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_byu-</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_byu-</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sh_bodi">
-		<IconStyle>
-			<scale>1.3</scale>
-			<Icon>
-				<href>/Applications/MAMP/htdocs/www/data/kml/bodi.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<StyleMap id="msn_bodi">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_bodi</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_bodi</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sn_ka-na2">
-		<IconStyle>
-			<scale>1.1</scale>
-			<Icon>
-				<href>/Applications/MAMP/htdocs/www/data/kml/ka-na2.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<Style id="sn_ha-rehu">
-		<IconStyle>
-			<scale>1.1</scale>
-			<Icon>
-				<href>/Applications/MAMP/htdocs/www/data/kml/ha-rehu.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<Style id="s_ylw-pushpin">
-		<IconStyle>
-			<scale>1.1</scale>
-			<Icon>
-				<href>/Applications/MAMP/htdocs/www/data/kml/dano.png</href>
-			</Icon>
-			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
-		</IconStyle>
-	</Style>
-	<Style id="sn_konwi">
-		<IconStyle>
-			<scale>1.1</scale>
-			<Icon>
-				<href>/Applications/MAMP/htdocs/www/data/kml/konwi.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<Style id="sh_edinbaraa2">
-		<IconStyle>
-			<scale>1.3</scale>
-			<Icon>
-				<href>/Applications/MAMP/htdocs/www/data/kml/edinbaraa2.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<StyleMap id="msn_edinbaraa2">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_edinbaraa2</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_edinbaraa2</styleUrl>
-		</Pair>
-	</StyleMap>
 	<Folder>
 		<name>castle</name>
-		<visibility>0</visibility>
 		<Placemark>
-
-
 			<name>ダノター城</name>
-			<TimeSpan id="ID">
-				<begin>1392-01-01T13:50:40+09:00</begin>
-				<end>1649-01-01T13:50:40+09:00</end>
-			</TimeSpan>
-			<visibility>0</visibility>
 			<open>1</open>
-			<description><![CDATA[<img style="max-width:500px;" src="file:////Applications/MAMP/htdocs/www/data/kml/dano2.png">
+			<description><![CDATA[<img style="max-width:500px;" src="image/dano2.png">
 
 
 
@@ -291,7 +283,10 @@
 				<range>218.0180092341239</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-
+			<TimeSpan id="ID">
+				<begin>1392-01-01T13:50:40+09:00</begin>
+				<end>1649-01-01T13:50:40+09:00</end>
+			</TimeSpan>
 			<styleUrl>#m_ylw-pushpin</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
@@ -299,14 +294,9 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-		<TimeSpan id="ID">
-		 <begin>1450-01-01T13:50:40+09:00</begin>     <!-- kml:dateTime -->
-		 <end>1760-01-01T13:50:40+09:00</end>         <!-- kml:dateTime -->
-	 </TimeSpan>
 			<name>キルカーン城</name>
-			<visibility>0</visibility>
 			<open>1</open>
-			<description><![CDATA[<img style="max-width:500px;" src="file:////Applications/MAMP/htdocs/www/data/kml/kiru2.png">
+			<description><![CDATA[<img style="max-width:500px;" src="image/kiru2.png">
 
 
 1450年建設。城主が変わるたびに改築されてきた城。１８世紀に落雷被害にあい廃城に。]]></description>
@@ -319,8 +309,10 @@
 				<range>1000.788873545007</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-
-
+			<TimeSpan id="ID">
+				<begin>1450-01-01T13:50:40+09:00</begin>
+				<end>1760-01-01T13:50:40+09:00</end>
+			</TimeSpan>
 			<styleUrl>#msn_kiru</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
@@ -328,15 +320,9 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-		<TimeSpan id="ID">
-		 <begin>1220-01-01T13:50:40+09:00</begin>     <!-- kml:dateTime -->
-		 <end>1745-01-01T13:50:40+09:00</end>         <!-- kml:dateTime -->
-	 </TimeSpan>
-
 			<name>アイリーン・ドナン城</name>
-			<visibility>0</visibility>
 			<open>1</open>
-			<description><![CDATA[<img style="max-width:500px;" src="file:////Applications/MAMP/htdocs/www/data/kml/airi2.png">
+			<description><![CDATA[<img style="max-width:500px;" src="image/airi2.png">
 
 スコットランドで最も美しいと讃えられる城。１３世紀にこの地で勢力を誇っていたノルウェー王国に勝利した際にスコットランド国王が臣下への恩賞として与えた。1745年のジャコバイトの反乱により破壊される。]]></description>
 			<Camera>
@@ -348,7 +334,10 @@
 				<roll>45.22702561396748</roll>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</Camera>
-
+			<TimeSpan id="ID">
+				<begin>1220-01-01T13:50:40+09:00</begin>
+				<end>1745-01-01T13:50:40+09:00</end>
+			</TimeSpan>
 			<styleUrl>#msn_airi-n</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
@@ -356,14 +345,9 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-		<TimeSpan id="ID">
-			<begin>1100-01-01T13:50:40+09:00</begin>
-			<end>1800-01-01T13:50:40+09:00</end>
-		</TimeSpan>
 			<name>エディンバラ城</name>
-			<visibility>0</visibility>
 			<open>1</open>
-			<description><![CDATA[<img style="max-width:500px;" src="file:////Applications/MAMP/htdocs/www/data/kml/edinbaraa2.png">
+			<description><![CDATA[<img style="max-width:500px;" src="image/edinbaraa2.png">
 
 7世紀にスコットランド王の居城として建築され、幾度の戦争をくぐりぬけた巨城。16世紀にはほぼ完成に近づく。ハリーポッターのホグワーツ城のモデルになったとも言われている]]></description>
 			<Camera>
@@ -375,7 +359,10 @@
 				<roll>1.280466949900983</roll>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</Camera>
-
+			<TimeSpan id="ID">
+				<begin>1170-01-01T13:50:40+09:00</begin>
+				<end>1800-01-01T13:50:40+09:00</end>
+			</TimeSpan>
 			<styleUrl>#msn_edinbaraa2</styleUrl>
 			<Point>
 				<extrude>1</extrude>
@@ -385,15 +372,9 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-		<TimeSpan id="ID">
-			<begin>	1283-01-01T13:50:40+09:00</begin>
-			<end>1800-01-01T13:50:40+09:00</end>
-		</TimeSpan>
-
 			<name>カーナーヴォン城</name>
-			<visibility>0</visibility>
 			<open>1</open>
-			<description><![CDATA[<img style="max-width:500px;" src="file:////Applications/MAMP/htdocs/www/data/kml/ka-na.png">
+			<description><![CDATA[<img style="max-width:500px;" src="image/ka-na.png">
 
 1283年にウェールズを侵略したエドワード1世がが統治の本拠地として築いた城。]]></description>
 			<LookAt>
@@ -405,7 +386,10 @@
 				<range>75915.83686014568</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-
+			<TimeSpan id="ID">
+				<begin>1283-01-01T13:50:40+09:00</begin>
+				<end>1800-01-01T13:50:40+09:00</end>
+			</TimeSpan>
 			<styleUrl>#msn_ka-na2</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
@@ -413,15 +397,9 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-		<TimeSpan id="ID">
-			<begin>1295-01-01T13:50:40+09:00</begin>
-			<end>1800-01-01T13:50:40+09:00</end>
-		</TimeSpan>
-
 			<name>ビューマリス城</name>
-			<visibility>0</visibility>
 			<open>1</open>
-			<description><![CDATA[<img style="max-width:500px;" src="file:////Applications/MAMP/htdocs/www/data/kml/byu-2.png">
+			<description><![CDATA[<img style="max-width:500px;" src="image/byu-2.png">
 
 1295年
 エドワード1世がグヴィネズ地方遠征のために建築。資金不足により未完成のままとなっているが、六角形と四角形の美しい壁は強い防御力を誇った。]]></description>
@@ -434,7 +412,10 @@
 				<range>1000.000014300029</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-
+			<TimeSpan id="ID">
+				<begin>1295-01-01T13:50:40+09:00</begin>
+				<end>1800-01-01T13:50:40+09:00</end>
+			</TimeSpan>
 			<styleUrl>#msn_byu-</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
@@ -442,14 +423,9 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-		<TimeSpan id="ID">
-			<begin>1296-01-01T13:50:40+09:00</begin>
-			<end>1800-01-01T13:50:40+09:00</end>
-		</TimeSpan>
 			<name>コンウィ城</name>
-			<visibility>0</visibility>
 			<open>1</open>
-			<description><![CDATA[<img style="max-width:500px;" src="file:////Applications/MAMP/htdocs/www/data/kml/konwi2.png">
+			<description><![CDATA[<img style="max-width:500px;" src="image/konwi2.png">
 
 1283年にエドワード1世のウェールズ侵攻のために築いた城。
 民衆の反乱時に海から補給が行えるようにするため海沿いに建てられた。]]></description>
@@ -462,7 +438,10 @@
 				<range>1002.882718710357</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-
+			<TimeSpan id="ID">
+				<begin>1296-01-01T13:50:40+09:00</begin>
+				<end>1800-01-01T13:50:40+09:00</end>
+			</TimeSpan>
 			<styleUrl>#msn_konwi</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
@@ -470,15 +449,9 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-		<TimeSpan id="ID">
-			<begin>1285-01-01T13:50:40+09:00</begin>
-			<end>1800-01-01T13:50:40+09:00</end>
-		</TimeSpan>
-
 			<name>ハーレフ城</name>
-			<visibility>0</visibility>
 			<open>1</open>
-			<description><![CDATA[<img style="max-width:500px;" src="file:////Applications/MAMP/htdocs/www/data/kml/ha-rehu2.png">
+			<description><![CDATA[<img style="max-width:500px;" src="image/ha-rehu2.png">
 
 エドワード1世の統治のために建てられた城。]]></description>
 			<LookAt>
@@ -490,7 +463,10 @@
 				<range>1001.693627776881</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-
+			<TimeSpan id="ID">
+				<begin>1285-01-01T13:50:40+09:00</begin>
+				<end>1800-01-01T13:50:40+09:00</end>
+			</TimeSpan>
 			<styleUrl>#msn_ha-rehu</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
@@ -498,15 +474,9 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-		<TimeSpan id="ID">
-			<begin>1190-01-01T13:50:40+09:00</begin>
-			<end>1800-01-01T13:50:40+09:00</end>
-		</TimeSpan>
-
 			<name>ドーヴァー城</name>
-			<visibility>0</visibility>
 			<open>1</open>
-			<description><![CDATA[<img style="max-width:500px;" src="file:////Applications/MAMP/htdocs/www/data/kml/dova2.png">
+			<description><![CDATA[<img style="max-width:500px;" src="image/dova2.png">
 ウィリアム征服王が建て、ヘンリー２世が増築した不落の城壁を持つ城。
 百年戦争やナポレオンの侵略からイギリスを守った完全防備の城。]]></description>
 			<Camera>
@@ -518,7 +488,10 @@
 				<roll>90.37476929233198</roll>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</Camera>
-
+			<TimeSpan id="ID">
+				<begin>1190-01-01T13:50:40+09:00</begin>
+				<end>1800-01-01T13:50:40+09:00</end>
+			</TimeSpan>
 			<styleUrl>#msn_dova</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
@@ -526,14 +499,9 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-		<TimeSpan id="ID">
-		 <begin>1385-01-01T13:50:40+09:00</begin>     <!-- kml:dateTime -->
-		 <end>1649-05-01T13:50:40+09:00</end>         <!-- kml:dateTime -->
-	 </TimeSpan>
 			<name>ボディアム城</name>
-			<visibility>0</visibility>
 			<open>1</open>
-			<description><![CDATA[<img style="max-width:500px;" src="file:////Applications/MAMP/htdocs/www/data/kml/bodi2.png">
+			<description><![CDATA[<img style="max-width:500px;" src="image/bodi2.png">
 
 1385年建設。１７世紀の市民戦争に巻き込まれ破壊され、現在は廃城となる。]]></description>
 			<LookAt>
@@ -545,7 +513,10 @@
 				<range>1117.210328593631</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-
+			<TimeSpan id="ID">
+				<begin>1385-01-01T13:50:40+09:00</begin>
+				<end>1649-05-01T13:50:40+09:00</end>
+			</TimeSpan>
 			<styleUrl>#msn_bodi</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>

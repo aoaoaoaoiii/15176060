@@ -5,195 +5,6 @@
 	<open>1</open>
 	<Document>
 		<name>castle.kml</name>
-		<Style id="sh_ha-rehu">
-			<IconStyle>
-				<scale>1.3</scale>
-				<Icon>
-					<href>/Applications/MAMP/htdocs/www/data/kml/ha-rehu.png</href>
-				</Icon>
-			</IconStyle>
-		</Style>
-		<Style id="sn_kiru">
-			<IconStyle>
-				<scale>1.1</scale>
-				<Icon>
-					<href>/Applications/MAMP/htdocs/www/data/kml/kiru.png</href>
-				</Icon>
-			</IconStyle>
-		</Style>
-		<Style id="sn_byu-">
-			<IconStyle>
-				<scale>1.1</scale>
-				<Icon>
-					<href>/Applications/MAMP/htdocs/www/data/kml/byu-.png</href>
-				</Icon>
-			</IconStyle>
-		</Style>
-		<Style id="sn_bodi">
-			<IconStyle>
-				<scale>1.1</scale>
-				<Icon>
-					<href>/Applications/MAMP/htdocs/www/data/kml/bodi.png</href>
-				</Icon>
-			</IconStyle>
-		</Style>
-		<Style id="sh_ka-na2">
-			<IconStyle>
-				<scale>1.3</scale>
-				<Icon>
-					<href>/Applications/MAMP/htdocs/www/data/kml/ka-na2.png</href>
-				</Icon>
-			</IconStyle>
-		</Style>
-		<StyleMap id="msn_byu-">
-			<Pair>
-				<key>normal</key>
-				<styleUrl>#sn_byu-</styleUrl>
-			</Pair>
-			<Pair>
-				<key>highlight</key>
-				<styleUrl>#sh_byu-</styleUrl>
-			</Pair>
-		</StyleMap>
-		<StyleMap id="msn_ha-rehu">
-			<Pair>
-				<key>normal</key>
-				<styleUrl>#sn_ha-rehu</styleUrl>
-			</Pair>
-			<Pair>
-				<key>highlight</key>
-				<styleUrl>#sh_ha-rehu</styleUrl>
-			</Pair>
-		</StyleMap>
-		<Style id="sn_ka-na2">
-			<IconStyle>
-				<scale>1.1</scale>
-				<Icon>
-					<href>/Applications/MAMP/htdocs/www/data/kml/ka-na2.png</href>
-				</Icon>
-			</IconStyle>
-		</Style>
-		<Style id="sh_konwi">
-			<IconStyle>
-				<scale>1.3</scale>
-				<Icon>
-					<href>/Applications/MAMP/htdocs/www/data/kml/konwi.png</href>
-				</Icon>
-			</IconStyle>
-		</Style>
-		<StyleMap id="msn_dova">
-			<Pair>
-				<key>normal</key>
-				<styleUrl>#sn_dova</styleUrl>
-			</Pair>
-			<Pair>
-				<key>highlight</key>
-				<styleUrl>#sh_dova</styleUrl>
-			</Pair>
-		</StyleMap>
-		<Style id="s_ylw-pushpin">
-			<IconStyle>
-				<scale>1.1</scale>
-				<Icon>
-					<href>/Applications/MAMP/htdocs/www/data/kml/dano.png</href>
-				</Icon>
-				<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
-			</IconStyle>
-		</Style>
-		<StyleMap id="msn_edinbaraa2">
-			<Pair>
-				<key>normal</key>
-				<styleUrl>#sn_edinbaraa2</styleUrl>
-			</Pair>
-			<Pair>
-				<key>highlight</key>
-				<styleUrl>#sh_edinbaraa2</styleUrl>
-			</Pair>
-		</StyleMap>
-		<Style id="sh_edinbaraa2">
-			<IconStyle>
-				<scale>1.3</scale>
-				<Icon>
-					<href>/Applications/MAMP/htdocs/www/data/kml/edinbaraa2.png</href>
-				</Icon>
-			</IconStyle>
-		</Style>
-		<Style id="sn_airi-n">
-			<IconStyle>
-				<scale>1.1</scale>
-				<Icon>
-					<href>/Applications/MAMP/htdocs/www/data/kml/airi-n.png</href>
-				</Icon>
-			</IconStyle>
-		</Style>
-		<Style id="sn_edinbaraa2">
-			<IconStyle>
-				<scale>1.1</scale>
-				<Icon>
-					<href>/Applications/MAMP/htdocs/www/data/kml/edinbaraa2.png</href>
-				</Icon>
-			</IconStyle>
-		</Style>
-		<Style id="sn_dova">
-			<IconStyle>
-				<scale>1.1</scale>
-				<Icon>
-					<href>/Applications/MAMP/htdocs/www/data/kml/dova.png</href>
-				</Icon>
-			</IconStyle>
-		</Style>
-		<StyleMap id="msn_konwi">
-			<Pair>
-				<key>normal</key>
-				<styleUrl>#sn_konwi</styleUrl>
-			</Pair>
-			<Pair>
-				<key>highlight</key>
-				<styleUrl>#sh_konwi</styleUrl>
-			</Pair>
-		</StyleMap>
-		<StyleMap id="msn_ka-na2">
-			<Pair>
-				<key>normal</key>
-				<styleUrl>#sn_ka-na2</styleUrl>
-			</Pair>
-			<Pair>
-				<key>highlight</key>
-				<styleUrl>#sh_ka-na2</styleUrl>
-			</Pair>
-		</StyleMap>
-		<Style id="sh_kiru">
-			<IconStyle>
-				<scale>1.3</scale>
-				<Icon>
-					<href>/Applications/MAMP/htdocs/www/data/kml/kiru.png</href>
-				</Icon>
-			</IconStyle>
-		</Style>
-		<Style id="sh_dova">
-			<IconStyle>
-				<scale>1.3</scale>
-				<Icon>
-					<href>/Applications/MAMP/htdocs/www/data/kml/dova.png</href>
-				</Icon>
-			</IconStyle>
-		</Style>
-		<Style id="sh_byu-">
-			<IconStyle>
-				<scale>1.3</scale>
-				<Icon>
-					<href>/Applications/MAMP/htdocs/www/data/kml/byu-.png</href>
-				</Icon>
-			</IconStyle>
-		</Style>
-		<Style id="sh_airi-n">
-			<IconStyle>
-				<scale>1.3</scale>
-				<Icon>
-					<href>/Applications/MAMP/htdocs/www/data/kml/airi-n.png</href>
-				</Icon>
-			</IconStyle>
-		</Style>
 		<StyleMap id="msn_airi-n">
 			<Pair>
 				<key>normal</key>
@@ -204,36 +15,44 @@
 				<styleUrl>#sh_airi-n</styleUrl>
 			</Pair>
 		</StyleMap>
-		<Style id="sn_ha-rehu">
+		<Style id="s_ylw-pushpin">
 			<IconStyle>
-				<scale>1.1</scale>
+				<scale>2.0</scale>
 				<Icon>
-					<href>/Applications/MAMP/htdocs/www/data/kml/ha-rehu.png</href>
-				</Icon>
-			</IconStyle>
-		</Style>
-		<Style id="s_ylw-pushpin_hl">
-			<IconStyle>
-				<scale>1.3</scale>
-				<Icon>
-					<href>/Applications/MAMP/htdocs/www/data/kml/dano.png</href>
+					<href>../image/dano.png</href>
 				</Icon>
 				<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
 			</IconStyle>
 		</Style>
-		<Style id="sn_konwi">
+		<Style id="sh_kiru">
 			<IconStyle>
-				<scale>1.1</scale>
+				<scale>2.0</scale>
 				<Icon>
-					<href>/Applications/MAMP/htdocs/www/data/kml/konwi.png</href>
+					<href>../image/kiru.png</href>
 				</Icon>
 			</IconStyle>
 		</Style>
-		<Style id="sh_bodi">
+		<Style id="sh_konwi">
+			<IconStyle>
+				<scale>2.0</scale>
+				<Icon>
+					<href>../image/konwi.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id="sh_edinbaraa2">
 			<IconStyle>
 				<scale>1.3</scale>
 				<Icon>
-					<href>/Applications/MAMP/htdocs/www/data/kml/bodi.png</href>
+					<href>../image/edinbaraa2.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id="sn_konwi">
+			<IconStyle>
+				<scale>2.0</scale>
+				<Icon>
+					<href>../image/konwi.png</href>
 				</Icon>
 			</IconStyle>
 		</Style>
@@ -247,6 +66,142 @@
 				<styleUrl>#sh_bodi</styleUrl>
 			</Pair>
 		</StyleMap>
+		<Style id="sn_edinbaraa2">
+			<IconStyle>
+				<scale>2.0</scale>
+				<Icon>
+					<href>../image/edinbaraa2.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id="sh_byu-">
+			<IconStyle>
+				<scale>2.0</scale>
+				<Icon>
+					<href>../image/byu-.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id="sn_kiru">
+			<IconStyle>
+				<scale>2.0</scale>
+				<Icon>
+					<href>../image/kiru.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id="sh_ha-rehu">
+			<IconStyle>
+				<scale>2.0</scale>
+				<Icon>
+					<href>../image/ha-rehu.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<StyleMap id="msn_byu-">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#sn_byu-</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#sh_byu-</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="sn_byu-">
+			<IconStyle>
+				<scale>2.0</scale>
+				<Icon>
+					<href>../image/byu-.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id="sh_bodi">
+			<IconStyle>
+				<scale>2.0</scale>
+				<Icon>
+					<href>../image/bodi.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<StyleMap id="msn_konwi">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#sn_konwi</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#sh_konwi</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="sn_ha-rehu">
+			<IconStyle>
+				<scale>2.0</scale>
+				<Icon>
+					<href>../image/ha-rehu.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id="sh_dova">
+			<IconStyle>
+				<scale>2.0</scale>
+				<Icon>
+					<href>../image/dova.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id="sn_ka-na2">
+			<IconStyle>
+				<scale>2.0</scale>
+				<Icon>
+					<href>../image/ka-na2.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id="sn_airi-n">
+			<IconStyle>
+				<scale>2.0</scale>
+				<Icon>
+					<href>../image/airi-n.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id="sh_airi-n">
+			<IconStyle>
+				<scale>2.0</scale>
+				<Icon>
+					<href>../image/airi-n.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<StyleMap id="msn_ha-rehu">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#sn_ha-rehu</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#sh_ha-rehu</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="sn_dova">
+			<IconStyle>
+				<scale>2.0</scale>
+				<Icon>
+					<href>../image/dova.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<StyleMap id="msn_edinbaraa2">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#sn_edinbaraa2</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#sh_edinbaraa2</styleUrl>
+			</Pair>
+		</StyleMap>
 		<StyleMap id="msn_kiru">
 			<Pair>
 				<key>normal</key>
@@ -257,6 +212,15 @@
 				<styleUrl>#sh_kiru</styleUrl>
 			</Pair>
 		</StyleMap>
+		<Style id="s_ylw-pushpin_hl">
+			<IconStyle>
+				<scale>2.0</scale>
+				<Icon>
+					<href>../image/dano.png</href>
+				</Icon>
+				<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+			</IconStyle>
+		</Style>
 		<StyleMap id="m_ylw-pushpin">
 			<Pair>
 				<key>normal</key>
@@ -267,16 +231,48 @@
 				<styleUrl>#s_ylw-pushpin_hl</styleUrl>
 			</Pair>
 		</StyleMap>
+		<StyleMap id="msn_dova">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#sn_dova</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#sh_dova</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="sn_bodi">
+			<IconStyle>
+				<scale>2.0</scale>
+				<Icon>
+					<href>../image/bodi.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<StyleMap id="msn_ka-na2">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#sn_ka-na2</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#sh_ka-na2</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="sh_ka-na2">
+			<IconStyle>
+				<scale>2.0</scale>
+				<Icon>
+					<href>../image/ka-na2.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
 		<Folder>
 			<name>castle</name>
 			<Placemark>
-			<TimeSpan id="ID">
-				<begin>13920101T135040+0900</begin>
-				<end>16490101T135040+0900</end>
-			</TimeSpan>
 				<name>ダノター城</name>
 				<open>1</open>
-				<description><![CDATA[<img style="max-width:500px;" src="file:////Applications/MAMP/htdocs/www/data/kml/dano2.png">
+				<description><![CDATA[<img style="max-width:500px;" src="image/dano2.png">
 
 
 
@@ -290,7 +286,10 @@
 					<range>218.0180092341239</range>
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</LookAt>
-
+				<TimeSpan id="ID">
+					<begin>1392-01-01T13:50:40+09:00</begin>
+					<end>1649-01-01T13:50:40+09:00</end>
+				</TimeSpan>
 				<styleUrl>#m_ylw-pushpin</styleUrl>
 				<Point>
 					<gx:drawOrder>1</gx:drawOrder>
@@ -298,13 +297,9 @@
 				</Point>
 			</Placemark>
 			<Placemark>
-			<TimeSpan id="ID">
-			 <begin>14500101T135040+0900</begin>     <!-- kml:dateTime -->
-			 <end>17600101T135040+0900</end>         <!-- kml:dateTime -->
-			</TimeSpan>
 				<name>キルカーン城</name>
 				<open>1</open>
-				<description><![CDATA[<img style="max-width:500px;" src="file:////Applications/MAMP/htdocs/www/data/kml/kiru2.png">
+				<description><![CDATA[<img style="max-width:500px;" src="image/kiru2.png">
 
 
 1450年建設。城主が変わるたびに改築されてきた城。１８世紀に落雷被害にあい廃城に。]]></description>
@@ -317,7 +312,10 @@
 					<range>1000.788873545007</range>
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</LookAt>
-
+				<TimeSpan id="ID">
+					<begin>1450-01-01T13:50:40+09:00</begin>
+					<end>1760-01-01T13:50:40+09:00</end>
+				</TimeSpan>
 				<styleUrl>#msn_kiru</styleUrl>
 				<Point>
 					<gx:drawOrder>1</gx:drawOrder>
@@ -325,13 +323,9 @@
 				</Point>
 			</Placemark>
 			<Placemark>
-			<TimeSpan id="ID">
-			 <begin>12200101T135040+0900</begin>     <!-- kml:dateTime -->
-			 <end>17450101T135040+0900</end>         <!-- kml:dateTime -->
-		 </TimeSpan>
 				<name>アイリーン・ドナン城</name>
 				<open>1</open>
-				<description><![CDATA[<img style="max-width:500px;" src="file:////Applications/MAMP/htdocs/www/data/kml/airi2.png">
+				<description><![CDATA[<img style="max-width:500px;" src="image/airi2.png">
 
 スコットランドで最も美しいと讃えられる城。１３世紀にこの地で勢力を誇っていたノルウェー王国に勝利した際にスコットランド国王が臣下への恩賞として与えた。1745年のジャコバイトの反乱により破壊される。]]></description>
 				<Camera>
@@ -343,7 +337,10 @@
 					<roll>45.22702561396748</roll>
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</Camera>
-
+				<TimeSpan id="ID">
+					<begin>1220-01-01T13:50:40+09:00</begin>
+					<end>1745-01-01T13:50:40+09:00</end>
+				</TimeSpan>
 				<styleUrl>#msn_airi-n</styleUrl>
 				<Point>
 					<gx:drawOrder>1</gx:drawOrder>
@@ -351,13 +348,9 @@
 				</Point>
 			</Placemark>
 			<Placemark>
-			<TimeSpan id="ID">
-				<begin>11000101T135040+0900</begin>
-				<end>18000101T135040+0900</end>
-			</TimeSpan>
 				<name>エディンバラ城</name>
 				<open>1</open>
-				<description><![CDATA[<img style="max-width:500px;" src="file:////Applications/MAMP/htdocs/www/data/kml/edinbaraa2.png">
+				<description><![CDATA[<img style="max-width:500px;" src="image/edinbaraa2.png">
 
 7世紀にスコットランド王の居城として建築され、幾度の戦争をくぐりぬけた巨城。16世紀にはほぼ完成に近づく。ハリーポッターのホグワーツ城のモデルになったとも言われている]]></description>
 				<Camera>
@@ -369,7 +362,10 @@
 					<roll>1.280466949900983</roll>
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</Camera>
-
+				<TimeSpan id="ID">
+					<begin>1170-01-01T13:50:40+09:00</begin>
+					<end>1800-01-01T13:50:40+09:00</end>
+				</TimeSpan>
 				<styleUrl>#msn_edinbaraa2</styleUrl>
 				<Point>
 					<extrude>1</extrude>
@@ -382,13 +378,9 @@
     </when>
 			</Placemark>
 			<Placemark>
-			<TimeSpan id="ID">
-				<begin>	12830101T135040+0900</begin>
-				<end>18000101T135040+0900</end>
-			</TimeSpan>
 				<name>カーナーヴォン城</name>
 				<open>1</open>
-				<description><![CDATA[<img style="max-width:500px;" src="file:////Applications/MAMP/htdocs/www/data/kml/ka-na.png">
+				<description><![CDATA[<img style="max-width:500px;" src="image/ka-na.png">
 
 1283年にウェールズを侵略したエドワード1世がが統治の本拠地として築いた城。]]></description>
 				<LookAt>
@@ -400,7 +392,10 @@
 					<range>75915.83686014568</range>
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</LookAt>
-
+				<TimeSpan id="ID">
+					<begin>1283-01-01T13:50:40+09:00</begin>
+					<end>1800-01-01T13:50:40+09:00</end>
+				</TimeSpan>
 				<styleUrl>#msn_ka-na2</styleUrl>
 				<Point>
 					<gx:drawOrder>1</gx:drawOrder>
@@ -411,13 +406,9 @@
     </when>
 			</Placemark>
 			<Placemark>
-			<TimeSpan id="ID">
-				<begin>12950101T135040+0900</begin>
-				<end>18000101T135040+0900</end>
-			</TimeSpan>
 				<name>ビューマリス城</name>
 				<open>1</open>
-				<description><![CDATA[<img style="max-width:500px;" src="file:////Applications/MAMP/htdocs/www/data/kml/byu-2.png">
+				<description><![CDATA[<img style="max-width:500px;" src="image/byu-2.png">
 
 1295年
 エドワード1世がグヴィネズ地方遠征のために建築。資金不足により未完成のままとなっているが、六角形と四角形の美しい壁は強い防御力を誇った。]]></description>
@@ -430,7 +421,10 @@
 					<range>1000.000014300029</range>
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</LookAt>
-
+				<TimeSpan id="ID">
+					<begin>1295-01-01T13:50:40+09:00</begin>
+					<end>1800-01-01T13:50:40+09:00</end>
+				</TimeSpan>
 				<styleUrl>#msn_byu-</styleUrl>
 				<Point>
 					<gx:drawOrder>1</gx:drawOrder>
@@ -441,13 +435,9 @@
     </when>
 			</Placemark>
 			<Placemark>
-			<TimeSpan id="ID">
-				<begin>12960101T135040+0900</begin>
-				<end>18000101T135040+0900</end>
-			</TimeSpan>
 				<name>コンウィ城</name>
 				<open>1</open>
-				<description><![CDATA[<img style="max-width:500px;" src="file:////Applications/MAMP/htdocs/www/data/kml/konwi2.png">
+				<description><![CDATA[<img style="max-width:500px;" src="image/konwi2.png">
 
 1283年にエドワード1世のウェールズ侵攻のために築いた城。
 民衆の反乱時に海から補給が行えるようにするため海沿いに建てられた。]]></description>
@@ -460,7 +450,10 @@
 					<range>1002.882718710357</range>
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</LookAt>
-
+				<TimeSpan id="ID">
+					<begin>1296-01-01T13:50:40+09:00</begin>
+					<end>1800-01-01T13:50:40+09:00</end>
+				</TimeSpan>
 				<styleUrl>#msn_konwi</styleUrl>
 				<Point>
 					<gx:drawOrder>1</gx:drawOrder>
@@ -471,13 +464,9 @@
     </when>
 			</Placemark>
 			<Placemark>
-			<TimeSpan id="ID">
-				<begin>12850101T135040+0900</begin>
-				<end>18000101T135040+0900</end>
-			</TimeSpan>
 				<name>ハーレフ城</name>
 				<open>1</open>
-				<description><![CDATA[<img style="max-width:500px;" src="file:////Applications/MAMP/htdocs/www/data/kml/ha-rehu2.png">
+				<description><![CDATA[<img style="max-width:500px;" src="image/ha-rehu2.png">
 
 エドワード1世の統治のために建てられた城。]]></description>
 				<LookAt>
@@ -489,7 +478,10 @@
 					<range>1001.693627776881</range>
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</LookAt>
-
+				<TimeSpan id="ID">
+					<begin>1285-01-01T13:50:40+09:00</begin>
+					<end>1800-01-01T13:50:40+09:00</end>
+				</TimeSpan>
 				<styleUrl>#msn_ha-rehu</styleUrl>
 				<Point>
 					<gx:drawOrder>1</gx:drawOrder>
@@ -500,13 +492,9 @@
     </when>
 			</Placemark>
 			<Placemark>
-			<TimeSpan id="ID">
-				<begin>11900101T135040+0900</begin>
-				<end>18000101T135040+0900</end>
-			</TimeSpan>
 				<name>ドーヴァー城</name>
 				<open>1</open>
-				<description><![CDATA[<img style="max-width:500px;" src="file:////Applications/MAMP/htdocs/www/data/kml/dova2.png">
+				<description><![CDATA[<img style="max-width:500px;" src="image/dova2.png">
 ウィリアム征服王が建て、ヘンリー２世が増築した不落の城壁を持つ城。
 百年戦争やナポレオンの侵略からイギリスを守った完全防備の城。]]></description>
 				<Camera>
@@ -518,7 +506,10 @@
 					<roll>90.37476929233198</roll>
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</Camera>
-
+				<TimeSpan id="ID">
+					<begin>1190-01-01T13:50:40+09:00</begin>
+					<end>1800-01-01T13:50:40+09:00</end>
+				</TimeSpan>
 				<styleUrl>#msn_dova</styleUrl>
 				<Point>
 					<gx:drawOrder>1</gx:drawOrder>
@@ -529,13 +520,9 @@
     </when>
 			</Placemark>
 			<Placemark>
-			<TimeSpan id="ID">
-			 <begin>13850101T135040+0900</begin>     <!-- kml:dateTime -->
-			 <end>16490501T135040+0900</end>         <!-- kml:dateTime -->
-		 </TimeSpan>
 				<name>ボディアム城</name>
 				<open>1</open>
-				<description><![CDATA[<img style="max-width:500px;" src="file:////Applications/MAMP/htdocs/www/data/kml/bodi2.png">
+				<description><![CDATA[<img style="max-width:500px;" src="image/bodi2.png">
 
 1385年建設。１７世紀の市民戦争に巻き込まれ破壊され、現在は廃城となる。]]></description>
 				<LookAt>
@@ -547,7 +534,10 @@
 					<range>1117.210328593631</range>
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</LookAt>
-
+				<TimeSpan id="ID">
+					<begin>1385-01-01T13:50:40+09:00</begin>
+					<end>1649-05-01T13:50:40+09:00</end>
+				</TimeSpan>
 				<styleUrl>#msn_bodi</styleUrl>
 				<Point>
 					<gx:drawOrder>1</gx:drawOrder>
@@ -558,52 +548,6 @@
 	</Document>
 	<Document>
 		<name>accident.kml</name>
-		<Style id="sn_battle00">
-			<IconStyle>
-				<scale>1.1</scale>
-				<Icon>
-					<href>/Applications/MAMP/htdocs/www/data/kml/battle.png</href>
-				</Icon>
-			</IconStyle>
-		</Style>
-		<Style id="sh_battle0">
-			<IconStyle>
-				<scale>1.3</scale>
-				<Icon>
-					<href>/Applications/MAMP/htdocs/www/data/kml/battle.png</href>
-				</Icon>
-			</IconStyle>
-		</Style>
-		<Style id="sn_battle1">
-			<IconStyle>
-				<scale>1.1</scale>
-				<Icon>
-					<href>/Applications/MAMP/htdocs/www/data/kml/battle.png</href>
-				</Icon>
-			</IconStyle>
-		</Style>
-		<Style id="sn_battle">
-			<IconStyle>
-				<scale>1.1</scale>
-				<Icon>
-					<href>/Applications/MAMP/htdocs/www/data/kml/battle.png</href>
-				</Icon>
-			</IconStyle>
-			<LineStyle>
-				<color>ff0000ff</color>
-			</LineStyle>
-		</Style>
-		<Style id="sh_battle1">
-			<IconStyle>
-				<scale>1.3</scale>
-				<Icon>
-					<href>/Applications/MAMP/htdocs/www/data/kml/battle.png</href>
-				</Icon>
-			</IconStyle>
-			<LineStyle>
-				<color>ff0000ff</color>
-			</LineStyle>
-		</Style>
 		<StyleMap id="msn_battle1">
 			<Pair>
 				<key>normal</key>
@@ -614,72 +558,9 @@
 				<styleUrl>#sh_battle</styleUrl>
 			</Pair>
 		</StyleMap>
-		<Style id="sh_battle00">
-			<IconStyle>
-				<scale>1.3</scale>
-				<Icon>
-					<href>/Applications/MAMP/htdocs/www/data/kml/battle.png</href>
-				</Icon>
-			</IconStyle>
-		</Style>
-		<Style id="sh_battle">
-			<IconStyle>
-				<scale>1.3</scale>
-				<Icon>
-					<href>/Applications/MAMP/htdocs/www/data/kml/battle.png</href>
-				</Icon>
-			</IconStyle>
-		</Style>
-		<Style id="sn_battle0">
-			<IconStyle>
-				<scale>1.1</scale>
-				<Icon>
-					<href>/Applications/MAMP/htdocs/www/data/kml/battle.png</href>
-				</Icon>
-			</IconStyle>
-		</Style>
-		<StyleMap id="msn_battle0">
-			<Pair>
-				<key>normal</key>
-				<styleUrl>#sn_battle</styleUrl>
-			</Pair>
-			<Pair>
-				<key>highlight</key>
-				<styleUrl>#sh_battle1</styleUrl>
-			</Pair>
-		</StyleMap>
-		<StyleMap id="msn_battle2">
-			<Pair>
-				<key>normal</key>
-				<styleUrl>#sn_battle0</styleUrl>
-			</Pair>
-			<Pair>
-				<key>highlight</key>
-				<styleUrl>#sh_battle00</styleUrl>
-			</Pair>
-		</StyleMap>
-		<StyleMap id="msn_rainy">
-			<Pair>
-				<key>normal</key>
-				<styleUrl>#sn_rainy</styleUrl>
-			</Pair>
-			<Pair>
-				<key>highlight</key>
-				<styleUrl>#sh_rainy</styleUrl>
-			</Pair>
-		</StyleMap>
 		<Style id="sh_rainy">
 			<IconStyle>
 				<scale>1.4</scale>
-				<Icon>
-					<href>http://maps.google.com/mapfiles/kml/shapes/rainy.png</href>
-				</Icon>
-				<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
-			</IconStyle>
-		</Style>
-		<Style id="sn_rainy">
-			<IconStyle>
-				<scale>1.2</scale>
 				<Icon>
 					<href>http://maps.google.com/mapfiles/kml/shapes/rainy.png</href>
 				</Icon>
@@ -696,13 +577,118 @@
 				<styleUrl>#sh_battle0</styleUrl>
 			</Pair>
 		</StyleMap>
+		<Style id="sn_battle00">
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>/Applications/MAMP/htdocs/www/image/battle.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<StyleMap id="msn_battle0">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#sn_battle</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#sh_battle1</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="sh_battle">
+			<IconStyle>
+				<scale>1.3</scale>
+				<Icon>
+					<href>/Applications/MAMP/htdocs/www/image/battle.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id="sh_battle0">
+			<IconStyle>
+				<scale>1.3</scale>
+				<Icon>
+					<href>/Applications/MAMP/htdocs/www/image/battle.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<StyleMap id="msn_battle2">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#sn_battle0</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#sh_battle00</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="sn_battle">
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>/Applications/MAMP/htdocs/www/image/battle.png</href>
+				</Icon>
+			</IconStyle>
+			<LineStyle>
+				<color>ff0000ff</color>
+			</LineStyle>
+		</Style>
+		<Style id="sn_battle1">
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>/Applications/MAMP/htdocs/www/image/battle.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<StyleMap id="msn_rainy">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#sn_rainy</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#sh_rainy</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="sh_battle1">
+			<IconStyle>
+				<scale>1.3</scale>
+				<Icon>
+					<href>/Applications/MAMP/htdocs/www/image/battle.png</href>
+				</Icon>
+			</IconStyle>
+			<LineStyle>
+				<color>ff0000ff</color>
+			</LineStyle>
+		</Style>
+		<Style id="sn_battle0">
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>/Applications/MAMP/htdocs/www/image/battle.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id="sh_battle00">
+			<IconStyle>
+				<scale>1.3</scale>
+				<Icon>
+					<href>/Applications/MAMP/htdocs/www/imagebattle.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id="sn_rainy">
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/shapes/rainy.png</href>
+				</Icon>
+				<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+			</IconStyle>
+		</Style>
 		<Folder>
 			<name>accident</name>
 			<Placemark>
-			<TimeSpan id="ID">
-			 <begin>1277-01-01T13:50:40+09:00</begin>     <!-- kml:dateTime -->
-			 <end>1307-01-01T13:50:40+09:00</end>         <!-- kml:dateTime -->
-		 </TimeSpan>
 				<name>エドワード１世ウェールズ侵攻</name>
 				<open>1</open>
 				<description>イギリスの国王エドワード１世（在位１２７２～１３０７年）は、大ブリテン島の統一を目指してウェールズを制圧してケルト人をイギリスに組み込み、さらに北のスコットランド征服を試みた。</description>
@@ -716,23 +702,19 @@
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</Camera>
 				<TimeSpan id="ID">
-		     <begin>1277-01-01T13:50:40+09:00</begin>     <!-- kml:dateTime -->
-		     <end>1307-01-01T13:50:40+09:00</end>         <!-- kml:dateTime -->
-		   </TimeSpan>
+					<begin>1277-01-01T13:50:40+09:00</begin>
+					<end>1307-01-01T13:50:40+09:00</end>
+				</TimeSpan>
 				<styleUrl>#msn_battle0</styleUrl>
 				<Point>
 					<extrude>1</extrude>
 					<altitudeMode>relativeToGround</altitudeMode>
 					<gx:drawOrder>1</gx:drawOrder>
-					<coordinates>-4.019563228496502,52.97221063253232,7484</coordinates>
+					<coordinates>-4.019563228496502,52.97221063253232,10000</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
-			<TimeSpan id="ID">
-			 <begin>1647-01-01T13:50:40+09:00</begin>     <!-- kml:dateTime -->
-			 <end>1649-01-01T13:50:40+09:00</end>         <!-- kml:dateTime -->
-		 </TimeSpan>
-				<name>清教徒革命3</name>
+				<name>清教徒革命</name>
 				<open>1</open>
 				<description>1641年から1649年にかけてイングランド・スコットランド・アイルランドで起きた内戦・革命。</description>
 				<Camera>
@@ -744,20 +726,19 @@
 					<roll>72.92263794523052</roll>
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</Camera>
-
+				<TimeSpan id="ID">
+					<begin>1647-01-01T13:50:40+09:00</begin>
+					<end>1649-01-01T13:50:40+09:00</end>
+				</TimeSpan>
 				<styleUrl>#msn_battle1</styleUrl>
 				<Point>
 					<extrude>1</extrude>
 					<altitudeMode>relativeToGround</altitudeMode>
 					<gx:drawOrder>1</gx:drawOrder>
-					<coordinates>-2.692986568945188,56.9009679799576,3125</coordinates>
+					<coordinates>-2.692986568945188,56.9009679799576,10000</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
-			<TimeSpan id="ID">
-			 <begin>1642-01-01T13:50:40+09:00</begin>     <!-- kml:dateTime -->
-			 <end>1645-01-01T13:50:40+09:00</end>         <!-- kml:dateTime -->
-		 </TimeSpan>
 				<name>清教徒革命1</name>
 				<open>1</open>
 				<description>1641年から1649年にかけてイングランド・スコットランド・アイルランドで起きた内戦・革命。</description>
@@ -770,21 +751,20 @@
 					<roll>72.92263794523052</roll>
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</Camera>
-
+				<TimeSpan id="ID">
+					<begin>1642-01-01T13:50:40+09:00</begin>
+					<end>1645-01-01T13:50:40+09:00</end>
+				</TimeSpan>
 				<styleUrl>#msn_battle1</styleUrl>
 				<Point>
 					<extrude>1</extrude>
 					<altitudeMode>relativeToGround</altitudeMode>
 					<gx:drawOrder>1</gx:drawOrder>
-					<coordinates>-4.202647222222223,56.49067222222222,3125</coordinates>
+					<coordinates>-4.202647222222223,56.49067222222222,10000</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
-			<TimeSpan id="ID">
-			 <begin>1645-01-01T13:50:40+09:00</begin>     <!-- kml:dateTime -->
-			 <end>1647-01-01T13:50:40+09:00</end>         <!-- kml:dateTime -->
-		 </TimeSpan>
-				<name>清教徒革命2</name>
+				<name>清教徒革命</name>
 				<open>1</open>
 				<description>1641年から1649年にかけてイングランド・スコットランド・アイルランドで起きた内戦・革命。</description>
 				<Camera>
@@ -796,20 +776,19 @@
 					<roll>72.92263794523052</roll>
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</Camera>
-
+				<TimeSpan id="ID">
+					<begin>1645-01-01T13:50:40+09:00</begin>
+					<end>1647-01-01T13:50:40+09:00</end>
+				</TimeSpan>
 				<styleUrl>#msn_battle1</styleUrl>
 				<Point>
 					<extrude>1</extrude>
 					<altitudeMode>relativeToGround</altitudeMode>
 					<gx:drawOrder>1</gx:drawOrder>
-					<coordinates>-3.627105273794602,56.61405748463151,3125</coordinates>
+					<coordinates>-3.627105273794602,56.61405748463151,10000</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
-			<TimeSpan id="ID">
-			 <begin>1645-01-01T13:50:40+09:00</begin>     <!-- kml:dateTime -->
-			 <end>1647-01-01T13:5040+09:00</end>         <!-- kml:dateTime -->
-		 </TimeSpan>
 				<name>ジャコバイトの反乱</name>
 				<open>1</open>
 				<description>ジャコバイトは、1688年イギリスで起こった名誉革命の反革命勢力の通称である。彼らは追放されたステュアート朝のジェームズ2世およびその直系男子を正統な国王であるとして、その復位を支持し、政権を動揺させた。</description>
@@ -822,18 +801,17 @@
 					<range>139385.0210417032</range>
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</LookAt>
-
+				<TimeSpan id="ID">
+					<begin>1745-01-01T13:50:40+09:00</begin>
+					<end>1749-01-01T13:50:40+09:00</end>
+				</TimeSpan>
 				<styleUrl>#msn_battle2</styleUrl>
 				<Point>
 					<gx:drawOrder>1</gx:drawOrder>
-					<coordinates>-5.245602554476093,57.20538884411359,0</coordinates>
+					<coordinates>-5.245602554476093,57.20538884411359,10000</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
-			<TimeSpan id="ID">
-			 <begin>1760-01-01T13:50:40+09:00</begin>     <!-- kml:dateTime -->
-			 <end>1760-06-01T13:50:40+09:00</end>         <!-- kml:dateTime -->
-		 </TimeSpan>
 				<name>落雷</name>
 				<open>1</open>
 				<description>1760年、落雷によりキルカーン城は廃城となる。</description>
@@ -846,18 +824,17 @@
 					<range>94200.85960649801</range>
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</LookAt>
-
+				<TimeSpan id="ID">
+					<begin>1760-01-01T13:50:40+09:00</begin>
+					<end>1760-06-01T13:50:40+09:00</end>
+				</TimeSpan>
 				<styleUrl>#msn_rainy</styleUrl>
 				<Point>
 					<gx:drawOrder>1</gx:drawOrder>
-					<coordinates>-5.009452093427825,56.42097635727984,0</coordinates>
+					<coordinates>-5.009452093427825,56.42097635727984,10000</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
-			<TimeSpan id="ID">
-			 <begin>1649-01-01T13:50:40+09:00</begin>     <!-- kml:dateTime -->
-			 <end>1651-01-01T13:50:40+09:00</end>         <!-- kml:dateTime -->
-		 </TimeSpan>
 				<name>イングランド内戦</name>
 				<open>1</open>
 				<description>清教徒革命におけるイングランドの騎士党と円頂党（の間で行われた軍事衝突。</description>
@@ -870,18 +847,17 @@
 					<range>266896.7774822089</range>
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</LookAt>
-
+				<TimeSpan id="ID">
+					<begin>1649-01-01T13:50:40+09:00</begin>
+					<end>1651-01-01T13:50:40+09:00</end>
+				</TimeSpan>
 				<styleUrl>#msn_battle</styleUrl>
 				<Point>
 					<gx:drawOrder>1</gx:drawOrder>
-					<coordinates>0.3060318036704635,51.1067947505346,0</coordinates>
+					<coordinates>0.3060318036704635,51.1067947505346,10000</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
-			<TimeSpan id="ID">
-			 <begin>1339-01-01T13:50:40+09:00</begin>     <!-- kml:dateTime -->
-			 <end>1453-01-01T13:50:40+09:00</end>         <!-- kml:dateTime -->
-		 </TimeSpan>
 				<name>百年戦争</name>
 				<description>フランス王国の王位継承をめぐるヴァロワ朝フランス王国と、プランタジネット朝およびランカスター朝イングランド王国の戦い。1337年11月1日のエドワード3世によるフランスへの挑戦状送付から1453年10月19日のボルドー陥落までの116年間の対立状態を指す。</description>
 				<LookAt>
@@ -895,11 +871,14 @@
 					<range>1267235.096756014</range>
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</LookAt>
-
+				<TimeSpan id="ID">
+					<begin>1339-01-01T13:50:40+09:00</begin>
+					<end>1453-01-01T13:50:40+09:00</end>
+				</TimeSpan>
 				<styleUrl>#msn_battle1</styleUrl>
 				<Point>
 					<gx:drawOrder>1</gx:drawOrder>
-					<coordinates>1.821580152279436,50.78670963055119,0</coordinates>
+					<coordinates>1.821580152279436,50.78670963055119,10000</coordinates>
 				</Point>
 			</Placemark>
 		</Folder>
